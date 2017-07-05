@@ -4,6 +4,9 @@ This is a test project for practical 2
 This is another highlight
 
 Below are important items:
--Item 1
--Item 2
--Item 3
+
+-item 1
+
+-item 2
+
+-item 3
